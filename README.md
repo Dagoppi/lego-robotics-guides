@@ -1,6 +1,5 @@
 # LEGO ROBOTICS | EDUCATIONAL GUIDES
 
-![LEGO Robotics - Toy Car](assets/covers/TOY" "CAR" "PORTADA.png)
 
 ## 🇬🇧 ENGLISH
 
