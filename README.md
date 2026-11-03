@@ -1,6 +1,6 @@
 # LEGO ROBOTICS | EDUCATIONAL GUIDES
 
-![LEGO Robotics - Toy Car](assets/covers/TOY%20CAR%20PORTADA.png)
+![LEGO Robotics - Toy Car](assets/covers/TOY" "CAR" "PORTADA.png)
 
 ## 🇬🇧 ENGLISH
 
