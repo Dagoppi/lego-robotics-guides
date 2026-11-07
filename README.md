@@ -1,12 +1,5 @@
 # LEGO ROBOTICS | EDUCATIONAL GUIDES
 
-<p align="center">
-  <img src="assets/covers/TOY%20CAR%20PORTADA.png"
-       alt="LEGO WeDo 2.0 - Toy Car"
-       width="420"
-       style="max-width: 100%; height: auto;">
-</p>
-
 ---
 
 ## 🇬🇧 ENGLISH
@@ -29,7 +22,21 @@ Guias educacionais e projetos de robótica utilizando plataformas LEGO Education
 
 **Guide 01 | Guía 01 | Guia 01 – Toy Car**
 
-[📖 OPEN GUIDE | ABRIR GUÍA | ABRIR GUIA](https://docs.google.com/presentation/d/e/2PACX-1vR_gR9I_prXYAjxHJZPIKBrBtp8Pf-y91W20nKMZdxlC7WRXKOzfOYT1HWipqmKCQ/pub?start=false&loop=false&delayms=3000)
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vR_gR9I_prXYAjxHJZPIKBrBtp8Pf-y91W20nKMZdxlC7WRXKOzfOYT1HWipqmKCQ/pub?start=false&loop=false&delayms=3000"
+     target="_blank"
+     rel="noopener noreferrer">
+    📖 OPEN GUIDE | ABRIR GUÍA | ABRIR GUIA
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="assets/covers/TOY%20CAR%20PORTADA.png"
+       alt="LEGO WeDo 2.0 - Toy Car"
+       width="420"
+       style="max-width: 100%; height: auto;">
+</p> 
 
 ### 🔵 LEGO Mindstorms EV3
 
