@@ -26,7 +26,7 @@ Guias educacionais e projetos de robótica utilizando plataformas LEGO Education
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vR_gR9I_prXYAjxHJZPIKBrBtp8Pf-y91W20nKMZdxlC7WRXKOzfOYT1HWipqmKCQ/pub"
    target="_blank"
    rel="noopener noreferrer">
-   📖 OPEN GUIDE
+   📖 OPEN GUIDE TOY CAR
 </a>
 </p>
 
