@@ -38,6 +38,18 @@ Guias educacionais e projetos de robótica utilizando plataformas LEGO Education
        style="max-width: 100%; height: auto;">
 </p> 
 
+**Guide 02 | Guía 02 | Guia 02 – Bowling**
+
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vSwhO-p5vcs-sGa0qweEEkqHkhph3ofFdeVWl_3Ac5PJgmaQifYaEiwSslfyqYgsA/pub">
+    <img src="assets/covers/bowling_portada.png"
+         alt="LEGO WeDo 2.0 - Bowling"
+         width="220">
+  </a>
+</p>
+
+[📖 OPEN GUIDE 02 | ABRIR GUÍA 02 | ABRIR GUIA 02](https://docs.google.com/presentation/d/e/2PACX-1vSwhO-p5vcs-sGa0qweEEkqHkhph3ofFdeVWl_3Ac5PJgmaQifYaEiwSslfyqYgsA/pub?start=false&loop=false&delayms=3000)
+
 ### 🔵 LEGO Mindstorms EV3
 
 Coming soon | Próximamente | Em breve.
